@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\clara\OneDrive\Escritorio\FAL 2023\JUEZ\Ultima posicion de equilibrio\Source.cpp(29,36): warning C4227: se ha utilizado un anacronismo: se omiten los calificadores de la referencia
+C:\Users\clara\OneDrive\Escritorio\FAL 2023\JUEZ\Ultima posicion de equilibrio\Source.cpp(33,23): warning C4018: '<': no coinciden signed/unsigned
+  Ultima posicion de equilibrio.vcxproj -> C:\Users\clara\OneDrive\Escritorio\FAL 2023\JUEZ\Ultima posicion de equilibrio\Debug\Ultima posicion de equilibrio.exe
